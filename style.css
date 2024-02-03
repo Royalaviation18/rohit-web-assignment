@@ -1,0 +1,35 @@
+/* Code by Rohit Priyadarshi  */
+h1 {
+    color: #fdce33;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+}
+
+body {
+    background-color: #006633;
+}
+
+.myDiv {
+    background-color: #ddeedd;
+    padding: 2px;
+}
+
+.myLastDiv {
+    margin-top: 525px;
+    width: 100%;
+}
+
+footer {
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+    color: #fdce33;
+    position: fixed;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    bottom: 0;
+    width: 100%;
+}

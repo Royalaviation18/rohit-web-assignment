@@ -1,0 +1,57 @@
+<!-- Code by Rohit Priyadarshi -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kennect Assigment</title>
+    <!-- Linking the css file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="myMainDiv" style="width:1400;">
+        <h1>Comparison Sorting Algorithms</h1>
+        <div class="myDiv" style=" height: 570px;">
+            <button type="button" onclick="randomizeArray()">Randomize Array</button>
+            <button type="button" onclick="insertionSort()">Insertion Sort</button>
+            <button type="button" onclick="selectionSort()">Selection Sort</button>
+            <button type="button" onclick="bubbleSort()">Bubble Sort</button>
+            <button type="button" onclick="quickSort()">Quick Sort</button>
+            <button type="button" onclick="mergeSort()">Merge Sort</button>
+            <button type="button" onclick="shellSort()">Shell Sort</button>
+            <button type="button" onclick="changeSize()">Change Size</button>
+
+            <div class="mySecondDiv">
+                <canvas id="myCanvas" width="1517" height="500"
+                    style=" background: #ffffff; padding-bottom: 20px; position: absolute;">
+                </canvas>
+            </div>
+            <div class="myLastDiv">
+                <button type="button" disabled>Skip Back</button>
+                <button type="button" disabled>Step Back</button>
+                <button type="button">Pause</button>
+                <button type="button" disabled>Step Forward</button>
+                <button type="button" disabled>Skip Forward</button>
+                <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+                <label>W:</label>
+                <input type="text" id="fname" name="fname" size="5">
+                <label>h:</label>
+                <input type="text" id="lname" name="lname" size="5">
+                <button type="button">Change Canvas Size</button>
+                <button type="button">Move Controls</button>
+            </div>
+        </div>
+
+    </div>
+    <!-- Linking the javascript file -->
+    <script src="src.js">
+    </script>
+
+    <footer>
+        <p>Algorithm Visualizations</p>
+    </footer>
+</body>
+
+</html>
