@@ -22,9 +22,9 @@
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Header and Footer Color | ![#fdce33](https://www.colorhexa.com/fdce33)  #fdce33 |
-| Body Background Color | ![#006633](https://www.colorhexa.com/006633) #006633 |
-| Div Color | ![#ddeedd](https://www.colorhexa.com/ddeedd) #ddeedd |
+| Header and Footer Color | ![#fdce33](https://via.placeholder.com/10/fdce33?text=+)  #fdce33 |
+| Body Background Color | ![#006633](https://via.placeholder.com/10/006633?text=+) #006633 |
+| Div Color | ![#ddeedd](https://via.placeholder.com/10/ddeedd?text=+) #ddeedd |
 
 
 
