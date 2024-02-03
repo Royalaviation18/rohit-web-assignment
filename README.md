@@ -25,6 +25,7 @@
 | Header and Footer Color | ![#fdce33](https://via.placeholder.com/10/fdce33?text=+)  #fdce33 |
 | Body Background Color | ![#006633](https://via.placeholder.com/10/006633?text=+) #006633 |
 | Div Color | ![#ddeedd](https://via.placeholder.com/10/ddeedd?text=+) #ddeedd |
+| Bar Color | ![#A9A9FF](https://via.placeholder.com/10/A9A9FF?text=+) #A9A9FF |
 
 
 
